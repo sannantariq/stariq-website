@@ -1,11 +1,52 @@
 #about {
-	background-color: #888;
+	background-color: #fcf7f1;
 }
 
 #projects {
-	background-color: #046;
+	background-color: #fcf7f1;
+	color: #414141;
+	border-width: 5px 0 0 0;
+	border-style: dashed;
+	border-color: #ff6a5c;
 }
 
 #contact {
-	background-color: #678;
+	background-color: #fcf7f1;
+	color: #414141;
+	border-width: 5px 0 0 0;
+	border-style: dashed;
+	border-color: #ff6a5c;
+}
+
+h1, h2 {
+	font-family: Chewy,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1 {
+	color: #414141;
+}
+
+#about {
+	color: ##414141;
+	border-width: 5px 0 0 0;
+	border-style: dashed;
+	border-color: #ff6a5c;
+}
+
+body {
+	color: #414141;
+}
+
+footer {
+	background-color: #fcf7f1;
+	color: #ff6a5c;
+}
+
+
+#about li {
+	font-size: 20px;
+}
+
+#about p, #about li {
+	text-align: left;
 }
